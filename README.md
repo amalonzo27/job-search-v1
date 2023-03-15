@@ -1,4 +1,4 @@
-# job-search-v1
+# job-search
 
 ## Project setup
 ```
